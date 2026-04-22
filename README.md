@@ -27,7 +27,7 @@
 
 ## 📌 Projetos em destaque
 
-**Meu Portfolio**
+**Meu Portfolio\n**
 O meu próprio portfolio onde você pode encontrar meu currículo e contatos.
 
 🔗 **Link do projeto:** https://rapoulas.vercel.app/
