@@ -42,6 +42,11 @@ Projeto de um aplicativo de gamificação em que permite o usuário acumular moe
 
 🔗 **Link do repositório:** https://github.com/orgs/StampGOApp/repositories
 
+**Site de filmes**
+Pequeno projeto pessoal feito para acessar uma API de filmes, onde você pode buscar os filmes disponíveis, junto com uma aba de trending movies baseado em número de pesquisas.
+
+🔗 **Link do projeto:**https://rapoulas-movie-app.vercel.app/
+
 ---
 
 ## 🔗 Onde me encontrar
