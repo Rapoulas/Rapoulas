@@ -27,17 +27,17 @@
 
 ## 📌 Projetos em destaque
 
-**Meu Portfolio\n**
+**Meu Portfolio**  
 O meu próprio portfolio onde você pode encontrar meu currículo e contatos.
 
 🔗 **Link do projeto:** https://rapoulas.vercel.app/
 
-**Trilha Interativa**
+**Trilha Interativa**  
 Projeto de um sistema web onde organizações cadastram e gerenciam suas trilhas, e um aplicativo, que permite que os usuários acessem as organizações e interajam com as trilhas.
 
 🔗 **Link do projeto/repositório:** https://trilhainterativa.com.br/ | https://github.com/trail-tracks
 
-**StampGO (WIP)**
+**StampGO (WIP)**  
 Projeto de um aplicativo de gamificação em que permite o usuário acumular moedas através de visitas a pontos turísticos da cidade, podendo utilizar esses pontos para descontos em restaurantes parceiros.
 
 🔗 **Link do repositório:** https://github.com/orgs/StampGOApp/repositories
